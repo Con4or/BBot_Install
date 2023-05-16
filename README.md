@@ -1,2 +1,2 @@
 # BBot_Install
-Short little script(s) for installing and then starting BBot.
+Short little scripts for installing BBot and all dependencies, and then starting BBot.
