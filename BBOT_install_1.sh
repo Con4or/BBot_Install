@@ -1,10 +1,10 @@
-#1/bin/sh
+#!/bin/sh
 
 # Author: Con4or
 # Script to install bbot stuff
 # Part 1 of 2 (due to reboot requirement)
 
-sudo apt install python3 python3-venv python3-pip
+sudo apt install python3 python3-venv python3-pip pipx
 python3 -m pipx ensurepath
 
 echo "Rebooting in:"
